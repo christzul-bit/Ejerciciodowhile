@@ -1,7 +1,7 @@
-﻿//Programa con do while 1
+﻿//Programa do while 2
 int num = 0;
 do
 {
     num++;
     Console.WriteLine(num);
-} while (num < 5);
+} while (num < 10);

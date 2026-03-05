@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="dowhile2/dowhile2.csproj" />
+  <Project Path="dowhile3/dowhile3.csproj" />
+  <Project Path="dowhile4/dowhile4.csproj" />
+  <Project Path="dowhile5/dowhile5.csproj" />
   <Project Path="ejerciciodowhile/ejerciciodowhile.csproj" />
 </Solution>
