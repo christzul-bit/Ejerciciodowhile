@@ -1,5 +1,10 @@
 <Solution>
   <Project Path="dowhile10/dowhile10.csproj" />
+  <Project Path="dowhile11/dowhile11.csproj" />
+  <Project Path="dowhile12/dowhile12.csproj" />
+  <Project Path="dowhile13/dowhile13.csproj" />
+  <Project Path="dowhile14/dowhile14.csproj" />
+  <Project Path="dowhile15/dowhile15.csproj" />
   <Project Path="dowhile2/dowhile2.csproj" />
   <Project Path="dowhile3/dowhile3.csproj" />
   <Project Path="dowhile4/dowhile4.csproj" />
